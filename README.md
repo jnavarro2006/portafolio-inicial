@@ -20,3 +20,13 @@ Tres cosas que quiero aprender en Proyecto Intermodular:
 
 3\. Aprender a trabajar en equipo y resolver problemas técnicos, buscando soluciones eficientes.
 
+
+
+
+
+\## Mis proyectos
+
+\- \*\*Gestor de Redes Virtuales\*\*: Pruebas de configuración y direccionamiento IP en entornos de servidor.
+
+\- \*\*Automatización con Scripts\*\*: Creación de scripts en PowerShell para recopilación de información del sistema.
+
