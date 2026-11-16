@@ -20,9 +20,9 @@ Tres cosas que quiero aprender en Proyecto Intermodular:
 
 
 
-\## Mis proyectos
+Mis proyectos
 
-\- \*\*Gestor de Redes Virtuales\*\*: Pruebas de configuración y direccionamiento IP en entornos de servidor.
+\- Gestor de Redes Virtuales: Pruebas de configuración y direccionamiento IP en entornos de servidor.
 
-\- \*\*Automatización con Scripts\*\*: Creación de scripts en PowerShell para recopilación de información del sistema.
+\- Automatización con Scripts: Creación de scripts en PowerShell para recopilación de información del sistema.
 
