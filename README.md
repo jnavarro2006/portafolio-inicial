@@ -26,3 +26,6 @@ Tres cosas que quiero aprender en Proyecto Intermodular:
 
 \- \*\*Automatización con Scripts\*\*: Creación de scripts en PowerShell para recopilación de información del sistema.
 
+## Recursos recomendados de ASIR
+* **Documentación oficial de Git:** Guía de referencia para dominar comandos y ramas.
+* **GitHub Skills:** Cursos interactivos gratuitos para practicar flujos colaborativos.
